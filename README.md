@@ -1,3 +1,3 @@
 # DFE-DATA4
 
-THIS IS A SHORT LIVED REPO
+This is the repository for the DFE Data Ebgineering Bootcamp
